@@ -12,9 +12,11 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://tenshiamd.com"><img src="https://avatars.githubusercontent.com/u/13580338?v=4" width="100px;" alt=""/><br /><sub><b>Angel Aviel Domaoan</b></sub></a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://tenshiamd.com"><img src="https://avatars.githubusercontent.com/u/13580338?v=4" width="100px;" alt=""/><br /><sub><b>Angel Aviel Domaoan</b></sub></a></td>
+    </tr>
+  </tobdy>
 </table>
 
 <!-- markdownlint-restore -->
