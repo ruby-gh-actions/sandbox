@@ -25,7 +25,8 @@
         "security",
         "data",
         "audio",
-        "talk"
+        "talk",
+        "a11y"
       ]
     }
   ]
