@@ -12,9 +12,11 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://tenshiamd.com"><img src="https://avatars.githubusercontent.com/u/13580338?v=4" width="100px;" alt=""/><br /><sub><b>Angel Aviel Domaoan</b></sub></a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://tenshiamd.com"><img src="https://avatars.githubusercontent.com/u/13580338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Angel Aviel Domaoan</b></sub></a><br /><a href="https://github.com/ruby-gh-actions/sandbox/commits?author=tenshiAMD" title="Code">💻</a> <a href="#design-tenshiAMD" title="Design">🎨</a> <a href="#security-tenshiAMD" title="Security">🛡️</a> <a href="#data-tenshiAMD" title="Data">🔣</a> <a href="#mentoring-tenshiAMD" title="Mentoring">🧑‍🏫</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
