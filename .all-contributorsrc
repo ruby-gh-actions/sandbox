@@ -7,7 +7,7 @@
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
-  "projectName": "sandbox-mergeable",
+  "projectName": "sandbox",
   "projectOwner": "ruby-gh-actions",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -22,7 +22,8 @@
         "code",
         "design",
         "security",
-        "data"
+        "data",
+        "mentoring"
       ]
     }
   ]
